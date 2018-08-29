@@ -1,0 +1,7 @@
+{
+  "presets": [ "react","env" ,"stage-2"],
+  "plugins": [
+    ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": "css" }]
+  ],
+  "sourceMaps": true
+}
